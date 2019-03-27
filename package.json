@@ -1,0 +1,25 @@
+{
+  "name": "hyper-winpaste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Git Bash Copy&Paste Support for Hyper on Windows",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirPolly/hyper-winpaste.git"
+  },
+  "keywords": [
+    "Hyper",
+    "Windows",
+    "Git",
+    "Bash"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirPolly/hyper-winpaste/issues"
+  },
+  "homepage": "https://github.com/SirPolly/hyper-winpaste#readme"
+}
