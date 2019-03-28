@@ -1,4 +1,7 @@
 # hyper-winpaste
 Git Bash Copy&amp;Paste Support for Hyper on Windows
 
-When you paste a windows path ala C:/not/porn into the console, it automagically transforms it into /c/not/porn.
+Transforms *C:/not/porn* into */c/not/porn* when you paste into the console (or some program does).
+
+## How to install
+```hyper i hyper-winpaste```
